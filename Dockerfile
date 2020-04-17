@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN mkdir test1
+RUN mkdir test
